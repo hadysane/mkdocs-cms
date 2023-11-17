@@ -2,7 +2,7 @@ site_name: Online-Dokumentationen
 theme: material
 site_description: A Material Design theme for MkDocs
 site_author: Meinolf Droste
-site_url: http://mdwp-mkdocs-cms.netlify.com/
+site_url: https://meek-hotteok-4cd009.netlify.app
 
 extra:
   social:
